@@ -8,6 +8,7 @@
     <title>Sistema de Cadastro - Lá Tem</title>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
     <link rel="stylesheet" href="css/bulma.min.css" />
+    <link rel="stylesheet" href="css/css.css" />
     <link rel="stylesheet" type="text/css" href="css/login.css">
 </head>
 
@@ -24,7 +25,7 @@
                     <div class="notification is-info">
                         <p>O usuário escolhido já existe. Informe outro e tente novamente.</p>
                     </div>
-                    <div class="box">
+                    <div class="">
                         <form action="cadastrar.php" method="POST">
                             <div class="field">
                                 <div class="control">
